@@ -16,7 +16,7 @@ pipeline {
 
             steps {
 
-                    echo "Builidng on ${env.APP_ENV}"
+                    eho "Builidng on ${env.APP_ENV}"
             }
 
         }
