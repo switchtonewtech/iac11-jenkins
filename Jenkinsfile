@@ -36,7 +36,7 @@ pipeline {
 
     post {
 
-        sucess {
+        success {
 
                 echo "Build Successful!"
 
